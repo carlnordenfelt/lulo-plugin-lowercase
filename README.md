@@ -8,7 +8,7 @@ It responds with a lowercased version of the provided Value string.
 $ npm install lulo-plugin-lowercase --save
 ```
 
-##Usage
+## Usage
 ### Properties
 * `Value`: The string value you want to lowercase. Required.
 
